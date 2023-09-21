@@ -1,0 +1,15 @@
+NAME=plan.md
+
+OP=COPY_AND_PASTE
+
+PATH=/home/user/Documents/file_samples
+
+DEST=/home/user/Documents/
+
+START_LINE=4
+
+END_LINE=8
+
+
+
+
