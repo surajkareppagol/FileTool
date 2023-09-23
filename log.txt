@@ -1,0 +1,5 @@
+
+## What it has?
+
+File Tool provides instructions and we write these in a file, which is then passed to another file.
+

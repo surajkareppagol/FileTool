@@ -15,9 +15,10 @@ This file will have a similar structures as writing a dockerfile.
 - OPERATION, The operation to perform on file
 - RENAME, If operation is MV then provide new name
 - DESTINATION, Indicates destination
+- OUTPUT, Name of the output file
 - START LINE, Starting line number
 - END LINE, End line number
 
 ## The Tool
 
-Tool should be written in bash so that many features of terminal can be used efficiently.
+The first idea is to write it in bash script, later it has been concluded that it should be written in python so more people can understand it.

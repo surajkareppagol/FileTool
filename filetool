@@ -1,15 +1,7 @@
 NAME=plan.md
-
 OP=COPY_AND_PASTE
-
-PATH=/home/user/Documents/file_samples
-
+PATH=/home/user/Documents/main
 DEST=/home/user/Documents/
-
 START_LINE=4
-
 END_LINE=8
-
-
-
-
+OUTPUT=log.txt
